@@ -13,11 +13,11 @@ Not: Köşeli parantez içindeki satırlar görsel ve ses notudur, seslendirilme
 
 Kolombiya'nın kuzeyinde, La Guajira'da, dünyanın en büyük açık kömür ocaklarından biri var. Adı Cerrejón.
 
-Burası öyle kartpostallık bir yer değil. Güneş tepeden vurur, toz ciğerine dolar, dev kamyonlar gün boyu kömür taşır. Ama bu kömürün her katmanı aslında bir sayfa. Ve o sayfalar, altmış milyon yıl önce burada yaşamış bir ormanın hikâyesini anlatıyor.
+Burası öyle kartpostallık bir yer değil. Güneş tepeden vurur, toz ciğerlere dolar, dev kamyonlar gün boyu kömür taşır. Ama bu kömürün her katmanı aslında bir sayfa. Ve o sayfalar, altmış milyon yıl önce burada yaşamış bir ormanın hikâyesini anlatıyor.
 
 2000'lerin başında bir grup bilim insanı bu ocağa gelir. Aradıkları şey kömür değil, fosildir. Taş tabakalarının arasından yapraklar, balıklar, kaplumbağa kabukları çıkarırlar. Dinozorlar yok olduktan birkaç milyon yıl sonra yeşermiş koca bir yağmur ormanı, sanki biri fotoğrafını çekip saklamış gibi, taşın içinde duruyor.
 
-Sonra bir gün, kayanın içinden bir omur çıkıyor.
+Sonra bir gün kayanın içinden bir omur çıkar.
 
 Kocaman bir omur. Bir yetişkinin bileğinden kalın.
 
@@ -27,7 +27,7 @@ Kocaman bir omur. Bir yetişkinin bileğinden kalın.
 
 Yıllarca orada kalırlar.
 
-Ta ki bir gün, müzede kemikleri hazırlayan bir uzman kutulardan birini açıp o omuru eline alana kadar. Bakar, çevirir, bir daha bakar. Bu omurun şekli tutmuyor. Eklem yüzeyleri, çıkıntıları… Bu bir timsah omuru değil.
+Ta ki bir gün müzede kemikleri hazırlayan bir uzman kutulardan birini açıp o omuru eline alana kadar. Bakar, çevirir, bir daha bakar. Bu omurun şekli tutmuyor. Eklem yüzeyleri, çıkıntıları… Bu bir timsah omuru değil.
 
 Bu bir yılan omuru.
 
@@ -41,9 +41,9 @@ Hem de bugüne kadar kimsenin görmediği büyüklükte bir yılanın.
 
 [GÖRSEL: Laboratuvar, kumpasla ölçülen omurlar, modern bir anakonda omuruyla yan yana karşılaştırma.]
 
-Ekip Cerrejón'a geri döner. Bu sefer ne aradıklarını biliyorlar. Ve buluyorlar da: Onlarca omur, kaburga parçaları. Hem de tek bir hayvana değil, yirmiden fazla bireye ait kalıntılar.
+Ekip Cerrejón'a geri döner. Bu kez ne aradığını biliyor ve aradığını buluyor: onlarca omur, kaburga parçaları. Hem de tek bir hayvana değil, yirmiden fazla bireye ait kalıntılar.
 
-Yani ortada bir tesadüf, bir ucube yok. Bu yılanlar bu ormanda yaşıyordu. Hem de epey kalabalık.
+Yani ortada bir tesadüf, bir ucube yok. Bu yılanlar bu ormanda yaşıyordu. Üstelik sayıca epey fazlaydılar.
 
 2009 yılında sonuçlar bilim dünyasının en saygın dergilerinden Nature'da yayımlanır. Yılana bir ad verilir: Titanoboa cerrejonensis. Yani "Cerrejón'un dev boası."
 
@@ -67,15 +67,15 @@ Bugün yaşayan en ağır yılan yeşil anakonda. Güvenilir ölçümlerde anako
 
 [GÖRSEL: Bir yılan iskeleti animasyonu. Omurlar tek tek yanıyor.]
 
-Şimdi aklınıza bir soru gelmiştir: Elde koca bir iskelet yok. Birkaç düzine omur var. Bunlardan 13 metre nasıl çıkıyor?
+Şimdi aklınıza bir soru gelmiştir: Elimizde eksiksiz bir iskelet yok. Birkaç düzine omur var. Bu kemiklerden 13 metrelik bir yılan nasıl çıkıyor?
 
-Cevap şu: Yılanlar vücut planı bakımından çok düzenli hayvanlardır. Yüzlerce omurları vardır ve bu omurların büyüklüğüyle hayvanın toplam boyu arasında oldukça tutarlı bir ilişki bulunur.
+Cevap şu: Yılanlar vücut yapısı bakımından çok düzenli hayvanlardır. Yüzlerce omurları olur ve bu omurların büyüklüğüyle hayvanın toplam boyu arasında oldukça tutarlı bir ilişki bulunur.
 
-Bilim insanları bugünkü boaları ve anakondaları ölçer. "Omur şu kadarsa hayvan şu kadardır" diye bir tablo çıkarırlar. Sonra Titanoboa'nın omurlarını bu tabloyla karşılaştırırlar. Omurun gövdenin hangi bölgesinden geldiğini de hesaba katarlar.
+Bilim insanları bugünkü boaları ve anakondaları ölçerler. "Omur şu kadarsa hayvan şu kadardır" diye bir tablo çıkarırlar. Sonra Titanoboa'nın omurlarını bu tabloyla karşılaştırırlar. Omurun gövdenin hangi bölgesinden geldiğini de hesaba katarlar.
 
 Tabii bu kesin bir ölçüm değil, bir tahmin. O yüzden sayıyı hep "yaklaşık" diye veriyoruz. Ama hangi yöntemi kullanırsanız kullanın, sonuç pek değişmiyor: Bu, bildiğimiz en büyük yılan.
 
-Ve asıl soru da tam burada başlıyor.
+Asıl soru da tam burada başlıyor.
 
 Neden?
 
@@ -89,25 +89,25 @@ Neden bugün böyle bir yılan yok da altmış milyon yıl önce vardı?
 
 Yılanlar soğukkanlıdır. Bilim dilinde bunlara "ektoterm" denir. Yani vücutlarını kendileri ısıtamazlar, sıcaklığı dışarıdan alırlar.
 
-Bunun anlamı şu: Hava ne kadar sıcaksa yılanın metabolizması da o kadar hızlı çalışır. Daha hızlı sindirir, daha hızlı büyür, daha büyük bir bedeni idare edebilir. Hava soğudukça da her şey yavaşlar.
+Bunun anlamı şu: Hava ne kadar sıcaksa yılanın metabolizması da o kadar hızlı çalışır. Daha hızlı sindirir, daha hızlı büyür, daha büyük bir bedeni kaldırabilir. Hava soğudukça da her şey yavaşlar.
 
 Bizde bir laf vardır: "Ayağını yorganına göre uzat." Yılanlar için yorgan, havanın sıcaklığıdır.
 
 İşte Titanoboa'yı bulan ekip de buradan yola çıktı. Dediler ki: Bu kadar büyük bir soğukkanlı hayvan ancak çok sıcak bir yerde yaşayabilir. Ne kadar sıcak?
 
-Hesapları, o dönemin Kolombiya ormanında yıllık ortalama sıcaklığın 30 ile 34 derece arasında olması gerektiğini gösterdi.
+Yaptıkları hesaplar, o dönemin Kolombiya ormanında yıllık ortalama sıcaklığın 30 ile 34 derece arasında olması gerektiğini gösterdi.
 
 Şimdi bir düşünün. Bu, en sıcak günün sıcaklığı değil. Yılın ortalaması. Gece dâhil, bütün mevsimler dâhil.
 
-Adana'nın temmuzunu bilirsiniz. Şimdi o temmuzu alın, bütün yıla yayın. Gece serinlemesi yok, kış yok, nefes alacak tek bir gün yok. Hava ıslak bir havlu gibi yüzünüze yapışıyor.
+Adana'nın temmuzunu bilirsiniz. Şimdi o temmuzu alın, bütün yıla yayın. Geceleri serinlik yok, kış yok, nefes alacak tek bir gün yok. Hava ıslak bir havlu gibi yüzünüze yapışıyor.
 
 Titanoboa'nın dünyası buydu.
 
 [GÖRSEL: Ekranda not: "Bu sıcaklık tahmini bilim dünyasında tartışmalıdır."]
 
-Yalnız dürüst olalım. Bu tahmin herkesi ikna etmedi. Bazı bilim insanları, bir yılanın boyundan geçmişin sıcaklığını okumanın bu kadar kolay olmadığını, işin içine başka etkenlerin de girdiğini savundu. Yani Titanoboa bir termometre, ama belki de ayarı tam tutmayan bir termometre.
+Yalnız dürüst olalım. Bu tahmin herkesi ikna etmedi. Bazı bilim insanları bir yılanın boyundan geçmişin sıcaklığını okumanın bu kadar kolay olmadığını, işin içine başka etkenlerin de girdiğini savundu. Yani Titanoboa bir termometre, ama belki de ayarı tam tutmayan bir termometre.
 
-Yine de şu kesin: O orman bugünkü yağmur ormanlarından daha sıcaktı. Ve bu sıcaklık, yılanların boyut sınırlarını zorlayabileceği bir ortam yarattı.
+Yine de şu kesin: O orman bugünkü yağmur ormanlarından daha sıcaktı. Bu sıcaklık da yılanların bugün ulaşamadığı boyutlara ulaşabileceği bir ortam yarattı.
 
 ---
 
@@ -119,7 +119,7 @@ Zamanı biraz geri saralım.
 
 Altmış altı milyon yıl önce dev bir göktaşı Dünya'ya çarptı. Dinozorların devri kapandı. Ardından gelen döneme Paleosen diyoruz. Titanoboa işte bu dönemde, yaklaşık 58–60 milyon yıl önce yaşadı.
 
-Dünya o sırada yarasını sarıyordu. Ormanlar yeniden kuruluyor, boşalan yerleri yeni canlılar dolduruyordu. Memeliler vardı ama hâlâ küçüktüler, çoğu kedi köpek boyunu geçmiyordu. Sahne bir bakıma boştu.
+Dünya o sırada yarasını sarıyordu. Ormanlar yeniden yeşeriyor, boşalan yerleri yeni canlılar dolduruyordu. Memeliler vardı ama hâlâ küçüktüler, çoğu kedi köpek boyunu geçmiyordu. Sahne bir bakıma boştu.
 
 Ve o boş sahnede sürüngenler büyüdü.
 
@@ -138,7 +138,7 @@ Böyle bir yerde büyük olmak dezavantaj değildi. Tam tersine, büyük bir ava
 
 Filmlerde gördüğünüz her şeyi unutun. Titanoboa ormanda avının peşinden koşan bir canavar değildi. Zaten o devirde ortada kovalanacak bir insan da yoktu.
 
-Bir düşünün: Bir ton ağırlığında, on üç metre boyunda bir beden karada nasıl hareket eder? Zor eder. Her adımda, pardon, her kıvrımda kendi ağırlığıyla boğuşur.
+Bir ton ağırlığında, on üç metre boyunda bir beden karada nasıl hareket eder? Zorlukla. Her kıvrımında kendi ağırlığıyla boğuşur.
 
 Ama suya girince iş değişir.
 
@@ -156,13 +156,13 @@ Ama sonra işin rengi değişti.
 
 Titanoboa'nın kafatasına ait parçalar incelendikçe başka bir tablo ortaya çıktı. Çenesinin yapısı, dişlerinin sayısı ve dizilişi… Hepsi aynı şeyi söylüyordu: Bu yılan ağırlıklı olarak balıkla besleniyordu.
 
-Evet. Yeryüzünün gördüğü en büyük yılan, büyük ihtimalle günlerini ırmakta balık avlayarak geçiriyordu.
+Evet. Yeryüzünün gördüğü en büyük yılan, muhtemelen günlerini ırmakta balık avlayarak geçiriyordu.
 
-Kulağa biraz hayal kırıklığı gibi geliyor, değil mi? Ama durun, aslında çok mantıklı. O bataklıklarda balık boldu, avlaması kolaydı. Bir kaplumbağanın kabuğuyla uğraşmak ya da bir timsahla boğuşmak yerine, bulanık suda önünden geçen iri bir balığı yakalamak çok daha az riskli.
+Biraz hayal kırıklığı oldu, değil mi? Ama durun, aslında çok mantıklı. O bataklıklarda balık boldu, avlaması kolaydı. Bir kaplumbağanın kabuğuyla uğraşmak ya da bir timsahla boğuşmak yerine, bulanık suda önünden geçen iri bir balığı yakalamak çok daha az riskli.
 
 Doğada çoğu zaman kazanan, en korkunç olan değil, enerjisini en iyi idare edendir.
 
-Bu, fırsat çıktığında bir timsahı ya da kıyıya fazla yaklaşan başka bir hayvanı geri çevirdiği anlamına gelmiyor. Ama günlük sofrasında büyük ihtimalle balık vardı.
+Bu, fırsat çıktığında bir timsahı ya da kıyıya fazla yaklaşan başka bir hayvanı geri çevirdiği anlamına gelmiyor. Ama her günkü rızkı büyük ihtimalle balıktı.
 
 ---
 
@@ -172,7 +172,7 @@ Bu, fırsat çıktığında bir timsahı ya da kıyıya fazla yaklaşan başka b
 
 Bu kadar başarılı, ortamına bu kadar uyumlu bir yırtıcı… Bugün neden aramızda değil?
 
-Burada size kestirip atan bir cevap verebilirdim. İnternetteki birçok video da bunu yapıyor: "Dünya soğudu, Titanoboa da yok oldu." Kulağa hoş geliyor.
+Burada size kestirip atan bir cevap verebilirdim. İnternetteki birçok video da bunu yapıyor: "Dünya soğudu, Titanoboa da yok oldu." Kulağa mantıklı da geliyor.
 
 Ama gerçek şu: Bilmiyoruz.
 
@@ -184,7 +184,7 @@ Hatta işin ilginci, Paleosen'den hemen sonra Dünya soğumadı. Tam tersine, bi
 
 Peki elimizde ne var? Tahminler.
 
-Belki iklim ve yağış düzeni değişti, o bataklık ormanları başka bir şeye dönüştü. Belki memeliler büyüyüp çeşitlendikçe rekabet arttı. Belki de Titanoboa'nın soyu küçülerek sürdü, bugünkü boaların uzak akrabalarına dönüştü.
+Belki iklim ve yağış düzeni değişti, o bataklık ormanları küçüldü, parçalandı. Belki memeliler büyüyüp çeşitlendikçe rekabet arttı. Belki de soyu hemen tükenmedi, nesiller boyunca küçülerek sürdü.
 
 Belki hepsi birden.
 
@@ -213,7 +213,7 @@ Doğa bazen en büyük sırlarını en sıradan kutulara saklıyor. Yeter ki bir
 
 [GÖRSEL: Siyah ekran.]
 
-Bu videoyu hazırlarken çok keyif aldım. Umarım siz de izlerken aynı şeyi hissetmişsinizdir. Dünya'nın kayıp çağlarını ve unutulmuş devlerini anlatmaya devam edeceğiz. Kaçırmak istemiyorsanız abone olmayı unutmayın.
+Bu videoyu hazırlarken çok keyif aldım. Umarım siz de izlerken aynı keyfi almışsınızdır. Dünya'nın kayıp çağlarını ve unutulmuş devlerini anlatmaya devam edeceğiz. Kaçırmak istemiyorsanız abone olmayı unutmayın.
 
 Bir sonraki videoda görüşmek üzere.
 
