@@ -1,0 +1,117 @@
+GİRİŞ: İki Araba, İki Kader
+
+Aynı gün, aynı fabrikadan, aynı üretim bandından çıkmış iki araba düşünün. Motorları da şanzımanları da aynı hatta şasi numaraları bile art arda. On yıl sonra bunlardan biri dört yüz bin kilometrede hâlâ ilk günkü gibi tıkır tıkır çalışıyor. Diğeri ise daha yüz elli bin kilometredeyken sanayilerde sürünüyor. 
+
+İki araba arasındaki bu uçurumu yaratan şey ne şanstır ne de dikiz aynasına asılan mavi nazar boncuğu. Farkı yaratan şey direksiyondaki kişinin her gün farkında bile olmadan tekrarladığı küçük alışkanlıklar.
+
+Dört Teker’e hoş geldiniz. Bugün bir arabanın nasıl yaşlandığını değil, nasıl "yaşlandırıldığını" konuşacağız. 
+
+Hazırsanız kontağı çeviriyoruz.
+
+1. İlk Marşın Bedeli
+
+Kontağı çevirdiğimiz o ilk saniyelerden başlayalım. Çünkü bir motor için günün en acımasız anı ne dik bir yokuştur ne de otobandaki yüksek hız; motoru buz gibi soğukken çalıştırdığımız o ilk andır. Araç gece boyunca yattığında yağın büyük kısmı motorun en altındaki hazneye, yani kartere süzülür. Dolayısıyla marşa bastığınız ilk birkaç saniyede hareketli parçaların arasındaki yağ tabakası yok denecek kadar incedir. Motordaki aşınmanın aslan payının da tam bu ilk anlarda yaşandığı kabul edilir.
+
+İşte bu yüzden sabahları yapılan iki yaygın alışkanlık, motora sanıldığından katbekat fazla zarar verir. İlki, motoru çalıştırır çalıştırmaz gaza asılıp onu adeta uyandırmaya çalışmaktır. Oysa motorun uykusu falan yoktur; onun tek ihtiyacı, yağ pompasının yağı en üstteki supaplara, eksantriğe kadar basması için birkaç saniyelik zamandır. O saniyelerde gaza yüklenmek, henüz yağlanmamış metal parçaları yüksek devirde kuru kuruya birbirine sürtmekten farksızdır.
+
+İkinci alışkanlık ise çok daha yaygındır ve ilk bakışta oldukça mantıklı görünür: Kış sabahı arabayı çalıştırıp kapının önünde on dakika rölantide bırakmak, bu arada da yukarı çıkıp çayı demlemek. Peki bu neden zararlı?
+
+Çünkü motor soğukken stop etmesin diye karışımı otomatik olarak zenginleştirir, yani silindirlere fazladan yakıt püskürtür. Bu fazla yakıtın bir kısmı yanamaz. Silindir gömleğindeki incecik koruyucu yağ tabakasını adeta yıkar, segmanların arasından süzülüp karterdeki temiz yağa karışır. Rölantide bekleyen motor çok yavaş ısındığı için bu süreç de uzadıkça uzar. Sonuç? Çay demlenir ama karterdeki motor yağı da yakıtla sulanmış olur.
+
+Doğrusu nedir? Marşa basın, yirmi otuz saniye kadar bekleyin. Zaten emniyet kemerini takıp aynaları kontrol edene kadar o süre dolar. Ardından yola çıkın ve ilk birkaç kilometreyi düşük devirde, motoru kasmadan, ayağınızın ucuyla sürün. Çünkü hafif yük altında yürüyen bir motor, yerinde sayıp rölantide çalışan bir motordan çok daha çabuk ve sağlıklı ısınır.
+
+Burada pek bilinmeyen, çok kritik bir detay var: Gösterge panelindeki hararet ibresi ortaya geldiğinde çoğumuz motorun tamamen ısındığını sanırız. Oysa o gösterge motor yağının değil, soğutma suyunun sıcaklığını gösterir. Yağ ise sudan çok daha geç ısınır. İbre yerine otursa bile yağın ideal çalışma sıcaklığına gelmesi için birkaç kilometre daha gerekir. O yüzden ibre ortaya geldi diye hemen gaza asılmayın; motora beş dakika daha süre tanıyın.
+
+2. Sayacın Söylemediği Gerçek
+
+Motor ısındı, yola çıktık. Fakat çoğumuzun sabah yolculuğu boş otobanlarda değil, kilitlenmiş şehir trafiğinde geçer. Motor yağı açısından asıl çile de burada başlar.
+
+Çünkü göstergedeki kilometre sayacı size sadece arabanın kaç kilometre yol aldığını söyler; motorun kaç saat boyunca çalıştığını söylemez. Akşam trafiğinde bir saatte sadece on kilometre ilerleyebildiğinizi düşünün. Sayaç on kilometre yazar ama motor tam bir saat boyunca aralıksız çalışmış, yağ pompalamış, ısınıp durmuştur. Oysa aynı bir saatte boş otobanda yüz kilometre gidebilirdiniz. Yağ için dur-kalk trafikteki o bir saat, otobandaki yüz kilometreden çok daha yorucudur. Bunu aklınızın bir köşesine yazın; birazdan yağ değişim aralıklarını konuşurken bu hesaba geri döneceğiz.
+
+Trafik kadar sinsi bir düşman daha var: kısa mesafe. Beş dakikalık yoldaki bakkala, markete gidip kontağı kapattığınızda motor çalışma sıcaklığına hiç ulaşamaz. Yanma sırasında doğal olarak oluşan su buharı ve yanmamış yakıt karterde hapsolur, çünkü yağ bunları buharlaştırıp atacak kadar ısınmaz. Yağ da zamanla hem incelir hem özelliğini yitirir. Yağ kapağını açtığınızda altında gördüğünüz o mayonez kıvamındaki sarımtırak tabaka çoğunlukla bu yoğuşmanın işaretidir. Ama parantez açalım: Bu tabaka her gün oluşuyor ve kalınlaşıyorsa sorun yoğuşma değil, silindir kapak contasından kaçan su da olabilir. Bir ustaya göstermekte fayda var.
+
+Dizel kullanıcıları için kısa mesafeler daha da büyük bir dert. Çünkü modern dizellerin egzozunda DPF, yani dizel partikül filtresi bulunur. Bu filtre, biriktirdiği kurumu ara ara yüksek egzoz sıcaklığıyla yakarak kendi kendini temizler. Buna rejenerasyon denir. Bu işlem için aracın belirli bir devirde, kesintisiz yol alması şarttır. Sürekli beş kilometrelik kısa yollar yapan bir dizelde bu temizlik hep yarıda kesilir, filtre zamanla tıkanır ve göstergeyi uyarı ışıklarıyla panayır yerine çevirir. Çözümü çok zor değil: Haftada bir kez çevre yoluna ya da otobana çıkın ve yirmi, yirmi beş dakika boyunca makul bir devirde, sabit hızla gidin. Hem filtre kendini temizlesin hem de siz biraz kafa dinleyin.
+
+3. Ucuz Tasarruf, Pahalı Motor
+
+Kısa mesafe kadar yaygın bir hata daha var ve üstelik tamamen iyi niyetle, yakıttan tasarruf etmek için yapılır. Tasarruf denince akla hemen şu gelir: "Erken vites yükselt, devri düşük tut, gaza basma." Mantık kâğıt üzerinde doğru görünür ama işin dozu kaçınca cebinizde kalan üç kuruşluk yakıt parası, motor tamirinde katlanarak geri gider.
+
+Beşinci viteste, bin iki yüz devirde tatlı bir rampayı tırmanırken gaza sonuna kadar yüklendiğinizi hayal edin. Kasa titrer, araba homurdanır, sanki boğuluyormuş gibi zorlanır. İşte bir motorun nefret ettiği şey tam olarak budur. Özellikle günümüzün direkt enjeksiyonlu, küçük hacimli turbo benzinli motorlarında bu aşırı zorlanma, kısaca LSPI denen düşük devirde ön ateşleme riskini doğurur. Bu kontrolsüz patlamalar piston tepelerine ve biyel kollarına balyoz gibi darbeler indirir; segmanı kırılan motorların birçoğunun hikâyesi buradan başlar. Dizellerde ise bu titreşimin faturasını şanzımanın önündeki çift kütleli volan öder. Onu sönümlemek için debelenen bu parça sessiz sedasız can verir ve değişimi hiç de ucuz değildir.
+
+Kural çok net: Hızlanmanız ya da rampa tırmanmanız gerekiyorsa vites küçültün ve motorun rahat nefes aldığı devir aralığına çıkın. Gerçek tasarruf motoru boğmaktan değil, gaz pedalını pürüzsüz ve kademeli kullanmaktan gelir.
+
+4. Kontağı Kapatmadan Önce
+
+Şehri geride bırakıp uzun yola çıktığımızı varsayalım. Araba yüklü, klima açık, otobanda tempolu bir şekilde kilometreleri deviriyorsunuz. Derken acıkıyorsunuz; dinlenme tesisine sapıyor, park yerine yanaşıyor ve arabayı durdurur durdurmaz kontağı kapatıyorsunuz.
+
+Oysa turbonun mili sadece birkaç saniye önce dakikada yüz elli bin, iki yüz bin devirle dönüyordu ve turbonun egzoz tarafı hâlâ kor gibi. Siz kontağı aniden kapattığınız anda yağ pompası da durur. O cehennem sıcağında hareketsiz kalan yağ, turbonun mil yataklarında pişip kömürleşir ve kurum bağlar. Sanayide revizyona giren turboların başlıca suçlularından biri de işte bu yanmış yağ kalıntılarıdır.
+
+Evet, yeni nesil araçların bir kısmında motor kapansa bile turboyu soğutmaya devam eden elektrikli yardımcı su pompaları var. Ama iyi bir alışkanlık cebinizi her zaman korur. Tempolu bir sürüşün ardından durmadan önceki son bir iki kilometreyi sakin sürün ya da aracı park ettikten sonra kontağı kapatmadan önce otuz kırk saniye rölantide bekleyin. Normal şehir içi kullanımda buna lüzum yok; bu kural yalnızca motoru ve turboyu gerçekten terlettiğiniz anlar için geçerli.
+
+5. Acelenin Faturası
+
+Yolculuk boyunca en çok yük bindirdiğimiz iki hayati organ: şanzıman ve frenler.
+
+Otomatik şanzıman kullananların en pahalıya patlayan refleksi, araç tam olarak durmadan D'den R'ye ya da R'den D'ye geçmektir. Dar sokakta ya da otoparkta manevra yaparken "Nasılsa santim santim gidiyorum" diyerek yapılan bu acelecilik, şanzımanın içindeki kavrama balatalarına ve planet dişlilere ani darbeler bindirir. Evet, modern şanzıman beyinleri bu geçişleri bir yere kadar engellemeye veya tolere etmeye çalışır. Ama emniyet kemeri var diye kimse arabayı duvara vurmaz. Önce aracın tamamen durduğundan emin olun, vitesi öyle D'ye ya da R'ye takın ve gaza basmadan önce şanzımanın kavradığını hissetmek için yarım saniye bekleyin.
+
+Frenlerde de senaryo pek farklı değil. Kırmızı ışığı yüz metre önceden görüp gaza basmaya devam etmek, sonra da son yirmi metrede frene asılmak hem balataları hem diskleri gereksiz yere kavurur. Sürekli ani ve yüksek ısıya maruz kalan diskler zamanla eğrilir. Yüksek hızda frene bastığınızda direksiyonda hissettiğiniz o rahatsız edici titremenin kaynağı da çoğunlukla bu yamulmuş disklerdir. Işığı uzaktan gördüğünüzde ayağınızı gazdan erkenden çekin ve bırakın, motor freni işini yapsın. Hem balatalarınız çok daha uzun dayansın, hem yakıt tüketiminiz düşsün, hem de yan koltuktaki yolcunuz her ışıkta torpidoya yapışmaktan kurtulsun.
+
+6. Sarı Işıkla İnatlaşmak
+
+Eve dönüş yolundayız, göstergeye bir göz atalım: İbre sıfıra dayanmış, sarı yakıt ışığı gözümüzün içine bakıyor. Biz ise içimizden o klasik hesabı yapıyoruz: "Aman, bu beni rahat elli kilometre daha götürür..."
+
+Götürür götürmesine ama faturası sonradan gelir. Modern enjeksiyonlu arabalarda yakıt pompası deponun tam içindedir ve çalışırken ürettiği ısıyı, içinde durduğu yakıt sayesinde atar. Yani deponuzdaki yakıt sadece motora gitmez, aynı zamanda pompayı serin tutan bir soğutma sıvısı görevi de görür. Depo sürekli çeyreğin altında, ışık seviyesinde kullanıldığında pompanın etrafındaki yakıt azalır ve pompa daha sıcak çalışır. Üstelik virajlarda ve sert yokuşlarda depodaki yakıt çalkalandıkça pompa hava çekebilir. Yakıt pompası yandığında ise ne tamiri ucuzdur ne de yol kenarında çekici beklemek keyifli.
+
+Depoyu çeyrek çizgisinin altına pek düşürmemeyi alışkanlık hâline getirin. Unutmayın, o sarı ışık menzil hesaplama oyunu için bir davetiye değil, son bir imdat çağrısıdır.
+
+7. Bütün Yük Bir Mandalda
+
+Sonunda eve vardık. Diyelim ki evinizin önü de tatlı bir yokuş. Arabayı durdurdunuz, ayağınız frendeyken vitesi doğrudan P konumuna aldınız, kontağı kapattınız ve ayağınızı frenden çektiniz. Araba geriye doğru birkaç santim esneyip durdu, değil mi?
+
+Tebrikler! İşte o anda yaklaşık bir buçuk tonluk koca arabanın tüm ağırlığını, otomatik şanzımanın içindeki serçe parmağı büyüklüğünde bir metal parçaya, yani park mandalına yüklediniz. Ertesi sabah vitesi P'den çıkarmaya çalışırken vites kolunun zor çıktığını hisseder, şanzımandan da tok bir "küt" sesi duyarsınız. İşte o ses, o zavallı mandalın koca yükün altından can havliyle kurtulurken çıkardığı çığlıktır. Bu stresi her gün yaşatırsanız bir gün o mandal ya da kilit dişlisi kırılabilir ve park hâlindeki arabanızı yokuş aşağı, komşunun bahçesinde bulabilirsiniz.
+
+Oysa doğru yöntem sadece üç saniyenizi alır. Durduğunuzda ayağınız frendeyken vitesi önce boşa, yani N'ye alın. Ardından el frenini çekin. Sonra ayak frenini yavaşça bırakın ve arabanın esneyip bütün yükünü el frenine verdiğini hissedin. Son olarak frene tekrar basıp vitesi P'ye alın.
+
+Böylece arabanın yükünü şanzıman değil, fren sistemi taşır. Mandal ise orada sadece yedek bir güvenlik kilidi olarak keyfine bakar. Bu alışkanlık cebinizden tek kuruş çıkarmaz ama sizi binlerce liralık bir şanzıman masrafından korur.
+
+8. Kaputun Altında Unutulanlar
+
+Buraya kadar arabanın bir gününü adım adım yaşadık. Şimdi kaputu kaldırıyoruz.
+
+Önce motor yağından başlayalım. Araç kitapçıklarında on beş bin, hatta yirmi, otuz bin kilometrelik periyodik bakım aralıkları yazar. Ama birçok kitapçığın birkaç sayfa ilerisine bakarsanız küçük bir tabloyla daha karşılaşırsınız: ağır kullanım koşulları. Sık yapılan kısa mesafeler, dur-kalk şehir trafiği, aşırı sıcaklar, tozlu yollar... Yani tam da Türkiye'deki gündelik kullanım. Hatırlayın, sayaç on kilometre yazarken motor trafikte tam bir saat çalışmıştı. Bu şartlarda çalışan bir motorda yağın on beş bin kilometre boyunca ilk günkü korumayı sürdürmesi pek mümkün değildir. Bu yüzden ustaların çoğu, yağı sekiz ile on bin kilometre arasında, kilometre dolmasa bile en geç yılda bir değiştirmeyi önerir.
+
+Yağ alırken de sadece kutunun üstündeki 5W-30 ya da 0W-20 gibi viskozite değerine bakmak yetmez. Kitapçıkta belirtilen ACEA standardı ve özellikle üreticinin onay kodu çok daha önemlidir. Kül oranı yanlış olan ucuz bir yağ, egzozdaki partikül filtresini ya da katalizörü zamanla, hiç belli etmeden çöp edebilir. Yağ filtresini söylememe gerek bile yok; her yağ değişiminde istisnasız değişmeli. Yeni yağı eski filtreden geçirmek, tertemiz duş alıp kirli çamaşırları tekrar giymeye benzer.
+
+Sırada soğutma sıvısı var. Hararet durup dururken ortaya çıkmaz; arkasında genellikle aylarca ihmal edilmiş bir antifriz yatar. Antifriz sadece suyun donmasını engellemez, aynı zamanda motorun içini pasa ve korozyona karşı korur. Ama zamanla bu özelliğini kaybeder ve o noktadan sonra korozyon radyatörü, devirdaim pompasını, motor bloğundaki su kanallarını içeriden kemirmeye başlar. Genleşme kabındaki sıvı bulanık, pas rengi ya da çamurlu görünüyorsa çoktan ömrünü doldurmuştur. Ve lütfen, "Rengi kırmızı, bendeki de kırmızı" diyerek rastgele antifrizleri birbirine karıştırmayın. Renk bir kalite göstergesi değildir, üreticinin boyasıdır. Önemli olan, aracınızın kitapçığında yazan üretici standardı ve onay kodudur.
+
+Gelelim en çok unutulan sıvıya: fren hidroliği. Bu sıvı higroskopiktir, yani havadaki nemi sünger gibi çeker. İçindeki su oranı arttıkça hidroliğin kaynama noktası hızla düşer. Bunun faturası düz yolda değil, uzun bir dağ inişinde çıkar. Diskler ve kaliperler iyice ısındığında hidroliğin içindeki su kaynar, sistemde buhar kabarcıkları oluşur ve frene bastığınızda pedal sünger gibi bomboş tabana yapışır. Üstelik bu su, ABS ünitesinin içindeki minik solenoid valfleri de zamanla paslandırır. İki yılda bir fren hidroliğini değiştirmek ucuzdur; değiştirmemek ise can yakar.
+
+Son olarak triger. Kayışlı motorlarda trigerin sadece kilometresi değil, yıl ömrü de vardır. Araba kapıda yatsa bile o kauçuk kayış zamanla eskir, çatlar. Koparsa birçok motorda pistonlar supaplara çarpar; bu çarpışmanın kazananı olmaz, kaybeden doğrudan cüzdanınızdır. Triger seti değiştirilirken devirdaim pompasını ve gergi bilyalarını da birlikte değiştirmek en mantıklı yoldur. Zincirli motor sahipleri de çok rehavete kapılmasın. Sabahları ilk çalıştırmada zincirden iki üç saniyelik metalik bir şakırtı geliyorsa zincir uzamış ya da gergi zayıflamış olabilir; bir ustaya mutlaka dinletin.
+
+9. Arabanız Size Bir Şey Söylüyor
+
+Arabalar birdenbire bozulmaz; çoğu zaman arıza yapmadan haftalar önce bize haber verirler. Sorun, bizim o sesleri duymazdan gelip müziğin sesini biraz daha açmamızdır.
+
+Göstergedeki sarı motor arıza lambası sabit yanıyorsa panik yapmayın ama ilk fırsatta aracı cihaza bağlatıp hata kodunu okutun. Fakat bu lamba yanıp sönüyorsa, işte o zaman durum kritiktir. Çünkü yanıp sönen motor lambası genellikle bir silindirde ciddi bir tekleme, yani ateşleme kaçırma olduğunu gösterir. Yanmayan yakıt egzoza atılır ve zaten kızgın olan katalizörün içinde tutuşarak onu eritebilir. Yanıp sönen arıza lambasıyla yola devam etmek, ucuz bir buji ya da bobin arızasını çok pahalı bir katalizör faturasına çevirmenin en garantili yoludur.
+
+Benzer şekilde elektrik tarafında da akü kutup başındaki pamukçuk gibi beyaz oksitlenmeler ya da gevşek bir şase kablosu sadece marşı zorlaştırmaz. Dengesiz voltaj yüzünden araçtaki hassas sensörler sapıtabilir ve ekranda alakasız onlarca hata kodu çıkabilir. Böyle durumlarda sağlam sensörler sık sık boş yere değiştirilir; oysa çözüm, kutup başını iki dakikada zımparalayıp temizlemek kadar basit olabilir.
+
+10. Ömürlük Ama Kimin Ömrü?
+
+servislerde sıkça duyduğumuz bir cümle var: "Abi, bunun şanzıman yağı ömürlük; fabrikasyon kapalı kutu, hiç ellenmez." Kulağa ne kadar hoş geliyor, değil mi? Bir masraf kapısı kapandı sanıyorsunuz.
+
+Ama burada durup sormak lazım: Kimin ömrü?
+
+Üreticilerin "ömürlük" dediği şey çoğu zaman aracın garanti dönemini, bilemediniz ilk sahibinin arabayı kullandığı birkaç yılı kapsar. Yani üretici aslında şunu söyler: "Benim öngördüğüm süre boyunca bu yağ seni idare eder, sonrası beni ilgilendirmez." Oysa o şanzımanın içinde milyarlarca kez birbirine temas eden dişliler, ısınan kavrama balataları ve mekanik aşınma tozları var. Her yağ gibi şanzıman yağı da ısındıkça zamanla kimyasal olarak bozulur.
+
+Bu yüzden birçok şanzıman uzmanı, "ömürlük" denen bu yağın altmış ile seksen bin kilometre arasında değiştirilmesini önerir. Yalnız burada önemli bir uyarı yapalım: Aracınız iki yüz bin kilometreyi devirmişse ve şanzıman yağı bugüne kadar hiç değişmemişse, o yağı makineyle bir anda tamamen değiştirmek bazen ters tepebilir. Çünkü yıllar içinde yağa karışan aşınma parçacıkları, yıpranmış kavramaların tutunmasına bir ölçüde yardımcı oluyor olabilir; temiz yağ girince şanzıman kaçırmaya başlayabilir. O yüzden bu değişimi vaktinde ve mutlaka işinin ehli bir şanzıman ustasıyla planlayın.
+
+11. Hangisi Sizin Arabanız?
+
+Toparlayalım... Arabalar yaşlandıkları için değil, bilgisizlik ve kötü alışkanlıklarla yıpratıldıkları için sanayiye düşer. Onları bitiren de genellikle büyük kazalar değil, her gün hiç düşünmeden tekrarladığımız o küçük hareketlerdir: soğuk motoru zorlamak, motoru rampada düşük devirde boğmak, araç tam durmadan vites değiştirmek, yakıt ışığıyla kilometrelerce inatlaşmak ve "ömürlük" etiketlerine körü körüne inanmak.
+
+Bu kötü alışkanlıkları terk etmek para istemez, sadece direksiyon başında biraz bilinç ister. Karşılığında da size en değerli şeyi hediye eder: sanayi köşelerinde usta peşinde değil, yollarda keyifle geçen uzun yıllar. Videonun başındaki o iki arabadan hangisinin sizinki olacağına da işte bu tercihler karar verir.
+
+Videoyu faydalı bulduysanız beğenip kanala destek olmayı unutmayın. Yorumlarda da dürüstçe yazın: Bu alışkanlıklardan hangileri sizde var? Çekinmeyin, kimse sizi yargılamayacak... Park mandalınız hariç.
+
+Henüz abone değilseniz Dört Teker'e abone olun; çünkü dört tekerin üstünde anlatacak daha çok hikâyemiz var. Bir sonraki videoda görüşmek üzere, yolunuz açık olsun!
