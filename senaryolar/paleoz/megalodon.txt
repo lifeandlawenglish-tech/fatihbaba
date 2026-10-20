@@ -102,7 +102,7 @@ Uzun süre cevap çok net görünüyordu: balina. Okyanustaki en yağlı ve en b
 
 Ve gerçekten de balina kemikleri bu hikâyeyi destekliyor. Peru çölünde bulunan küçük balina kemiklerinde megalodon dişlerinin bıraktığı derin, tırtıklı izler var. Açılıştaki o sahneyi hatırlıyor musunuz? Göğüs kafesine gelen darbe? Bazı araştırmacılara göre megalodon, küçük balinalara tam bu bölgeden saldırıyordu: Kaburgaları kırıp kalbe ve akciğerlere ulaşmak, avı birkaç saniyede etkisiz hâle getirmek için.
 
-Böyle bir saldırı için inanılmaz bir ısırık gerekir. İki bin sekizde yapılan bilgisayar modellemeleri, büyük bir megalodonun çenesinin arka kısmında yüz sekiz bin ile yüz seksen iki bin Newton arasında bir kuvvet üretebildiğini hesapladı. T. rex videosunda o devin ısırığı için elli yedi bin Newton demiştik. En yüksek tahmine göre megalodonun ısırığı bunun üç katından fazla; bugünkü büyük beyazınkinin ise neredeyse on katı.
+Böyle bir saldırı olağanüstü bir ısırık ister. O ısırığın gücüne birazdan ayrıca bakacağız.
 
 Kuzey Carolina'dan çıkan bir başka fosil, bu avcının neye cesaret edebildiğini gösteriyor. Bir ispermeçet balinası dişi; ama üzerinde üç derin oyuk var. Oyukların arasındaki mesafe ve kenarlarındaki tırtık izleri, tek bir sorumlu gösteriyor: megalodon ya da onun hemen öncesinde yaşamış yakın atası. Isırık hayvanın başına denk geliyor. İspermeçet videosunda bu ailenin bugünkü temsilcisinin derinlerdeki kalamarlarla düellolarını anlatmıştık. Görünüşe göre ailenin eski üyeleri, o düellolardan çok daha tehlikeli bir rakiple de karşılaşmıştı.
 
@@ -115,6 +115,60 @@ Fosillerin anlattığı bu tür adli tıp hikâyelerini seviyorsanız, Paleoz'a 
 Son yıllarda dişler bir sürpriz daha yaptı. İki bin yirmi iki yılında bir ekip, diş minesine hapsolmuş azot atomlarına baktı. Bir hayvan besin zincirinde ne kadar yukarıdaysa, dokularında ağır azot o kadar birikir. Megalodonun dişlerinden çıkan değerler, bugüne kadar herhangi bir deniz canlısında ölçülmüş en yüksek değerlerdi. Yani megalodon yalnızca balina yemiyordu; büyük ihtimalle başka yırtıcıları da yiyordu. Belki diğer köpek balıklarını, belki yırtıcı balinaları, belki de zaman zaman kendi türünü.
 
 Ama hikâye burada da bitmiyor. İki bin yirmi beşte, Almanya'da bulunmuş on sekiz milyon yıllık megalodon dişleri bu kez çinko atomlarıyla incelendi. Sonuç, menünün sanıldığından çok daha geniş olduğunu gösterdi. Megalodon balinaları da yiyordu, besin zincirinin alt basamaklarındaki balıkları da. Bölgeye göre neyi bulursa onu yiyordu. Bu dev, seçici bir balina avcısından çok, fırsatçı bir avcıydı.
+
+Peki bütün bu parçaları bir araya koyduğumuzda, megalodon gerçekte ne kadar güçlüydü?
+
+Önce ısırığa bakalım. Ekrana üç çeneyi yan yana getirelim: solda bugünkü bir büyük beyaz, ortada T. rex, sağda megalodon. İki bin sekizde yapılan bilgisayar modellemeleri, büyük bir megalodonun çenesinin arka kısmında yüz sekiz bin ile yüz seksen iki bin Newton arasında bir kuvvet üretebildiğini hesapladı. T. rex videosunda o devin ısırığını yaklaşık altı tonluk bir yüke benzetmiştik. En yüksek tahminle megalodonun ısırığı on sekiz buçuk tona denk geliyor: T. rex'in üç katından fazla, bugünkü büyük beyazın neredeyse on katı. Bir düzineden fazla otomobilin ağırlığını düşünün; hepsi birkaç dişin ucunda toplanıyor.
+
+Şimdi çenenin açıklığına bakalım. İki bin yirmi iki modeline göre bu ağız iki metreye yakın açılabiliyordu. Önüne bir insan silueti koyalım: Ayakta duran yetişkin bir insan, bu ağzın içine eğilmeden girebiliyor.
+
+Bu çeneyi taşıyan gövde ise on altı metrelik orta tahminle altmış tonu aşıyor; en büyük tahminle doksan dört tona çıkıyor. Bugün yaşayan en iri büyük beyaz köpek balıkları iki tona ancak yaklaşır. Yani megalodon, sık sık karıştırıldığı bu uzak kuzenin otuz, kırk katı ağırlıktaydı.
+
+Ama güç yalnızca kas ve dişle ölçülmez. Megalodonun bir zayıf noktası vardı: hız. İki bin yirmi beş modeline göre gündelik seyir hızı saatte birkaç kilometreydi. Kısa atılımlarda ne kadar hızlanabildiğini bilmiyoruz; ama bu gövde bir koşucu değil, sabırlı bir pusucuydu. Bu ayrıntıyı aklınızda tutun; birazdan çok işimize yarayacak.
+
+Şimdi, bir noktada herkesin aklına gelen o soruya geçelim: Megalodon, bu kanalda anlattığımız diğer okyanus devleriyle karşılaşsaydı ne olurdu?
+
+Önce bir uyarı yapalım. Bu karşılaşmalar hiçbir zaman yaşanmadı. Bugün tanıdığımız orka da, bugün tanıdığımız ispermeçet de megalodon yok olduğunda henüz bu hâllerinde değildi. Megalodonun son zamanlarında yaşayan orka akrabası yalnızca dört metre boyundaydı ve büyük ihtimalle balıkla besleniyordu. Yani şimdi kuracağımız sahneler bir zaman makinesi deneyi. Bildiğimiz biyolojiyi kullanacağız; ama her adımda neyin kanıt, neyin tahmin olduğunu söyleyeceğiz.
+
+İlk karşılaşma: orka.
+
+Ekranın soluna dokuz metrelik, altı tonluk bir erkek orka koyalım; sağına on altı metrelik bir megalodon. Ölçek tek başına çok şey söylüyor: Megalodon orkanın on katı ağırlıkta. Boyunu konuşurken bahsettiğimiz iki bin yirmi iki modelini hatırlayın: Yetişkin bir megalodon, orka büyüklüğündeki bir avı neredeyse bütün hâlinde yutabilirdi. Teke tek bir karşılaşmada o çene bir kez kapanırsa, hikâye orada biter.
+
+Ama orka videosunu izlediyseniz, orkaların neredeyse hiçbir zaman teke tek dövüşmediğini bilirsiniz.
+
+Orkaların büyük beyazlara karşı kullandığı yöntemleri hatırlayalım: köpek balığını ters çevirip hareketsiz bırakmak, göğüs yüzgecinden yakalayıp savurmak, karnını yarıp karaciğerini almak. Mavi balinayı ise saatlerce yorup nefes almasını engelleyerek devirmişlerdi. Şimdi bu yöntemleri tek tek megalodona deneyelim. Altmış tonluk bir gövdeyi ters çevirmek mi? Mümkün görünmüyor. Nefesini kesmek mi? Megalodon hava solumuyor. Yüzgecinden yakalamak ise iki metrelik bir ağzın hemen yanına girmek demek. Orkaların bildiğimiz hiçbir taktiği, yetişkin bir megalodona kolayca uyarlanamıyor. Büyük ihtimalle bir orka sürüsü yetişkin bir megalodonla hiç uğraşmazdı. Belki de bugün büyük beyazların orkalardan kaçtığı gibi, o zaman kaçan taraf orkalar olurdu.
+
+Ama orkaların gözü zaten yetişkinde olmazdı.
+
+Orka videosunun açılışını hatırlayın: Tek bir orkanın iki dakika içinde karnını yarıp karaciğerini aldığı büyük beyaz, iki buçuk metreydi. Yeni doğmuş bir megalodon ise üç buçuk ile dört metre arasındaydı; yani tam da orkaların bugün avladığı köpek balıklarının boyunda. Üstelik bu yavrular, sığ kıyılardaki kreşlerde büyüyordu. Bugün orkaların fok peşinde kendilerini kumsala bile fırlattığı türden sularda.
+
+Bu ilk karşılaşmanın sonucu şu: Yetişkinler arasında megalodon. Ama işin içine yavrular girdiğinde, bir orka sürüsü bir megalodon için en tehlikeli düşman olabilirdi. Bunu gösteren tek bir fosil yok; bugünkü orkaları tanıyan herkesin aklına gelecek bir ihtimal yalnızca.
+
+İkinci karşılaşma: ispermeçet.
+
+Ekrana on altı metrelik, kırk beş tonluk bir erkek ispermeçet getirelim; karşısına aynı boydaki megalodonu koyalım. Bu kez boylar eşit. İspermeçet videosunda bu hayvanın silahlarını görmüştük: Essex gemisini iki darbede batıran koçbaşı gibi bir kafa, alt çenede yirmi santime yaklaşan dişler. Ama asıl kozu dövüşmek değil, aşağı inmek. Kırk beş dakika boyunca bin metre derinlikte kalabilen bir hayvandan söz ediyoruz. Megalodonun ne kadar derine inebildiğini bilmiyoruz; bugünkü büyük beyazlar bile zaman zaman bin metreyi geçebiliyor. Ama megalodon, ispermeçetin evi olan o karanlıkta avlanmak için evrimleşmemişti. Ve hatırlarsanız, yavaştı.
+
+Yetişkin bir erkek ispermeçetle kafa kafaya bir savaş, iki taraf için de ölümcül bir risk olurdu. Doğada avcılar böyle riskleri nadiren alır. Megalodonun gözü büyük ihtimalle başka yerde olurdu: yavrularda. İspermeçet videosunda yeni doğan yavruların derine inemediğini, annesi dalarken yüzeyde bir bakıcının nöbet tuttuğunu anlatmıştık. Orkalara karşı kurulan papatya düzenini de hatırlayın: başlar içeride, kuyruklar dışarıda. Bu düzen orkalara karşı işe yarıyordu; ağzını iki metre açabilen bir köpek balığına karşı ne kadar dayanırdı, bilmiyoruz.
+
+Bildiğimiz tek şey, Kuzey Carolina'daki o ısırılmış dişin dört metre kadar boyu olan küçük bir ispermeçete ait olması. Yani bu iki soy gerçekten karşılaştığında, ısırılan taraf küçük olandı.
+
+Ama bunlar bir zaman makinesi oyunu. Megalodonun gerçek rakipleri, bu sahnelerdeki her iki hayvandan da çok daha korkutucuydu.
+
+İspermeçet videosunda Peru çölünden çıkan o üç metrelik kafatasını anlatmıştık: Livyatan melvillei. Şimdi onu bu videonun açılışındaki koya geri koyalım. Aynı kayalardan, aynı çağa ait megalodon dişleri ve Livyatan kemikleri birlikte çıkıyor. On üç buçuk ile on yedi buçuk metre arasında bir boy; iki çenesinde de otuz altı santime ulaşan dişler. Bugünkü ispermeçetin aksine kalamar değil, balina avlıyordu. Yani megalodonla aynı sofraya, aynı boy balinalara uzanıyordu.
+
+İkisinin dişlerini ekranda yan yana koyalım. Megalodonunki on sekiz santim, kenarları testere gibi tırtıklı, yassı bir bıçak. Livyatan'ınki otuz altı santim, kalın ve yuvarlak bir kazık. Biri keserek koparıyor, öteki saplayıp parçalıyor. Aynı işi yapan iki farklı alet.
+
+Peki aralarında bir düello oldu mu? Bunu gösteren tek bir fosil yok. Ama aynı kıyılarda aynı avların peşinde olduklarını düşünmek için güçlü sebepler var. Megalodonun gerçek ligi buydu: tek başına koca balinaları avlayabilen birkaç dev.
+
+Bu ligde Livyatan yalnız da değildi. İtalya'dan, Japonya'dan çıkan fosiller, dünyanın dört bir yanında altı yedi metrelik başka dişli ispermeçet avcılarının yaşadığını gösteriyor. Azot sonuçlarını hatırlayın: Megalodon başka yırtıcıları da yiyordu. Bu küçük yırtıcı ispermeçetler hem rakibi hem de menüsü olmuş olabilir.
+
+Ve bu ligin en küçük oyuncusu, kimsenin ciddiye almayacağı bir köpek balığıydı. O küçük rakip sonunda masadan kalkan son kişi olacaktı. Ona birazdan geleceğiz.
+
+Peki bugün bu ligde oynayan biri var mı?
+
+Kısa cevap: hayır. Bugün yaşayan en büyük yırtıcı balık büyük beyaz; altı metreye ancak yaklaşıyor. En büyük dişli avcı ispermeçet; ama o kalamar peşinde. Bugün okyanusta yetişkin bir büyük balinayı öldürebilen tek avcı orka ve bunu da tek başına değil, ailesiyle birlikte yapıyor. Orka videosunda on dört orkanın saatler süren bir kuşatmayla bir mavi balinayı nasıl devirdiğini anlatmıştık. Megalodonun tek başına, birkaç ısırıkla yaptığı işi, bugün ancak koca bir orka ailesi birlikte yapabiliyor.
+
+Yani megalodonun tahtı boş kalmadı; ama artık üzerinde tek bir dev oturmuyor. Güç, dev bir bedenden zeki bir sürüye geçti.
 
 Peki bu kadar güçlü, bu kadar esnek ve bu kadar büyük bir avcı nasıl oldu da yok oldu?
 
